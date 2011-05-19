@@ -1,3 +1,10 @@
 ==program ini merupakan sebuah skrip bash yang digunakan
 untuk menyusun direktori kerja.==
 
+[Penggunaan]
+1. simpan barisan kode ini di sebuah direktori (untuk eksekusi lebih mudah dapat disimpan di /usr/bin )
+2. rubah hak akses menjadi 755
+3. kemudian program dapat dieksekusi melalui terminal
+4. masukkan nama projek, kemudian direktori akan dibuat
+5. apabila projek sudah pernah dibuat, maka direktori tidak akan dibuat
+
